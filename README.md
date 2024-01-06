@@ -40,4 +40,4 @@ Contributions to enhance this learning strategy are welcome! If you have suggest
 
 This repository is for educational purposes only and does not constitute financial advice. Always conduct your analysis and consult with financial professionals before making any investment decisions.
 
-If you have any questions, email me at: michael2904kh@gmail.com
+If you have any questions, email me at: tjkmikee@gmail.com

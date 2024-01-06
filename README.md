@@ -1,2 +1,5 @@
 # V1-stocks-project
-Creating a portfolio based on a learning trading strategy, and trying to eliminate survivalist bias
+Goals of the project:
+-Creating a portfolio based on a learning trading strategy
+-Eliminate survivalist bias
+-Adjusting data to show more accurate correlation

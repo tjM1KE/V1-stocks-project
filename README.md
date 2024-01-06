@@ -20,7 +20,7 @@ This is a project purely for educational reasons and to increase the experience 
 <body> 
 	<details> 
 		<summary>Test Trading Strategy Results Over Time</summary>
-    :
+    https://github.com/tjM1KE/V1-stocks-project/issues/1#issue-2068789592
 	</details>		 
 </body> 
 </html> 

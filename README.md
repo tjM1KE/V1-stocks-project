@@ -10,6 +10,28 @@
 
 This is a project purely for educational reasons and to increase the experience I have with python.👍
 
+
+
+<!DOCTYPE html> 
+<head> 
+<head> 
+	<ins>Final Outcome:<ins> 
+</head> 
+<body> 
+	<details> 
+		<summary>Test Trading Strategy Results Over Time</summary>
+    :
+	</details>		 
+</body> 
+</html> 
+
+
+
+
+
+
+
+
 <ins>__Contribution:__<ins>
 
 Contributions to enhance this learning strategy are welcome! If you have suggestions, improvements, or additional learning resources, feel free to create a pull request or open an issue.
